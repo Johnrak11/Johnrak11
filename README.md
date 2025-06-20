@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 
 ---
 
-## 🛠 GitHub Stats (Optional)
+## 🛠 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Johnrak11&show_icons=true&theme=radical" alt="GitHub Stats" />
